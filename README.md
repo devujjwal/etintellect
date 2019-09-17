@@ -1,2 +1,2 @@
-# etmicrosite
-Microsites for ET Rise
+# etintellect
+Microsites for ET Intellect
